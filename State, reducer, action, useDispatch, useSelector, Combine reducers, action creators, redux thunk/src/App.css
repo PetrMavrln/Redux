@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.customers {
+  margin: 20px auto 0 auto;
+}
+
+.customers div {
+  margin: 0 auto;
+}
+
+button {
+  padding: 10px;
+  font-size: 20px;
+  border: 2px solid teal;
+  background: teal;
+  color: white;
+  border-radius: 5px;
+  display: flex;
+  margin-right: 5px;
+  margin-top: 10px;
+}
